@@ -1,0 +1,37 @@
+
+#menu-principal{
+    background-color: #ffff;
+}
+
+
+
+
+
+
+#menu {
+    display: flex;
+    align-items: center;
+    background-color: #ffff
+}
+
+button {
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    border-color:#FFBC0D;
+    cursor: pointer;
+    background-color:#FFBC0D ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4E2B00;
+    transition: 300ms;
+    
+
+}
+
+#bloco-intermediario{
+    display: flex;
+    flex-direction: row;
+    width: 1650px;
+    height: 420px;
+    border: 1px solid red
+}
